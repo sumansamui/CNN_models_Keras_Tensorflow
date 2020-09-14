@@ -1,3 +1,13 @@
+"""
+Author: Suman Samui
+Email: samuisuman@gmail.com
+
+"""
+
+
+
+
+
 import matplotlib.pyplot as plt
 import tensorflow as tf
 from tensorflow import keras
